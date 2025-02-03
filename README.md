@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🧬 Senior Research Scientist working at the Univeristy of Cambridge
+- 🧬 Senior Research Scientist at the Univeristy of Cambridge
 - 📈 Bioinformatician/Computational Biologist working in proteomics
 - 🔭 Big fan of R and Shiny 
 - 📚 See my [Google Scholar for my latest publications](https://scholar.google.co.uk/citations?user=SJoJ3n0AAAAJ&hl=en)
